@@ -40,11 +40,13 @@ The dashboard provides actionable insights into booking trends, revenue, ride st
 
 | Overview |
 |---------|
-| (C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-14 170035.png) |
+<img width="1165" height="740" alt="Screenshot 2025-12-14 170035" src="https://github.com/user-attachments/assets/e3520602-6f93-4b03-907c-ce84a955ef89" />
+
 
 | Payment Insights |
 |---------------|
-! (C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-14 170100.png) 
+<img width="1162" height="723" alt="Screenshot 2025-12-14 170100" src="https://github.com/user-attachments/assets/d264ba35-433f-4e9b-9936-5b9d1082e2a9" />
+
 
 
 ---
