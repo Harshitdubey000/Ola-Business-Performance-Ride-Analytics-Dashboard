@@ -36,6 +36,17 @@ The dashboard provides actionable insights into booking trends, revenue, ride st
 - Ride demand analysis over time
 - Performance comparison across vehicle categories
 
+## 📸 Dashboard Preview
+
+| Overview |
+|---------|
+| ![]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-14 170035.png") | ![]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-14 170100.png") |
+
+| Payment Insights |
+|---------------|
+![]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-14 170100.png") |
+
+
 ---
 
 ## 📊 Dashboard Features
